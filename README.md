@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
