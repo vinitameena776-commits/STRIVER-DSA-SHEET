@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0287-find-the-duplicate-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
