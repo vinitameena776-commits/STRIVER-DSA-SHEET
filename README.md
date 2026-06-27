@@ -79,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
