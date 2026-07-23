@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0387-first-unique-character-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
