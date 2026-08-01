@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0328-odd-even-linked-list) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0509-fibonacci-number) |
 ## String
