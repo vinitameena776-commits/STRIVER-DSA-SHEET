@@ -11,29 +11,38 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode*temp=head;
+        //base case
+        if(head==NULL)return NULL;
+
+        ListNode* temp=head;
         int cnt=0;
-        //check if k node exist in LL
-        while(cnt<k){
-            if(temp==NULL) return head;
+        while(temp!=NULL && cnt<k){
             temp=temp->next;
             cnt++;
         }
+        if(cnt<k)return head;
 
-        //recursive call to rest of LL
-        ListNode* prevNode=reverseKGroup(temp,k);
-
-        //reverse the current grp
-        temp=head;
+        //reverse k node
+        ListNode*next=NULL;
+        ListNode*curr=head;
+        ListNode*prev=NULL;
         cnt=0;
-        while(cnt<k){
-            ListNode* next=temp->next;
-            temp->next=prevNode;
 
-            prevNode=temp;
-            temp=next;
+        while(curr!=NULL && cnt<k){
+            next=curr->next;
+            curr->next=prev;
+
+            prev=curr;
+            curr=next;
             cnt++;
         }
-        return prevNode;
+
+        //recursion
+        if(next!=NULL){
+            head->next=reverseKGroup(next,k);
+        }
+
+        //return head of reversed list
+        return prev;
     }
 };
