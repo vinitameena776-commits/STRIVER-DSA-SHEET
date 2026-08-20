@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0229-majority-element-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
