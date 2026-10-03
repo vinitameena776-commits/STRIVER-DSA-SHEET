@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0155-min-stack) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vinitameena776-commits/STRIVER-DSA-SHEET/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
